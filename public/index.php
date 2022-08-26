@@ -27,7 +27,7 @@
                                         <input type="search" class="form-control" name="pesquisa" id="pesquisa" placeholder="Digite sua pesquisa">
                                     </div>
                                     <div class="col-auto">
-                                        <button type="button" class="btn btn-primary mb-3">Pesquisa</button>
+                                        <button id="btnpesquisa" name="btnpesquisa" type="button" class="btn btn-primary mb-3">Pesquisa</button>
                                     </div>
                                 </form>
                             </div>

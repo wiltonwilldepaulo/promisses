@@ -27,3 +27,6 @@ async function lista() {
 document.addEventListener("DOMContentLoaded", function (event) {
     lista();
 });
+
+const pesquisa = document.querySelector("#btnpesquisa");
+
